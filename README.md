@@ -1,84 +1,103 @@
-# Olá, eu sou o Raphael Anaya!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8364D2&size=28&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Web;React+%7C+Next.js+%7C+TypeScript;UI+%7C+UX;SEO+%7C+Performance)](https://git.io/typing-svg)
+<h1 align="center">Olá, eu sou Raphael Anaya</h1>
 
-### 💻 Desenvolvedor Web | Foco em soluções web e experiência do usuário
+<h3 align="center">Desenvolvedor Web | React • Next.js • TypeScript</h3>
 
-🚀 Seja muito bem vindo(a)! Sou apaixonado por tecnologia, códigos e por transformar ideias em produtos digitais funcionais, criativos e eficientes. Atuo principalmente com **desenvolvimento web**, construindo interfaces que unem design, desempenho e usabilidade.
+<p align="center">
+  Apaixonado por transformar ideias em experiências digitais modernas, performáticas e centradas no usuário.
+</p>
 
-🎯 Meu objetivo: Criar soluções que resolvam problemas, agreguem valor e proporcionem a melhor experiência para quem usa.
-
----
-
-## 🛠️ Principais Tecnologias e Ferramentas
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Raphael-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Raphael-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Raphael-JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Raphael-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Raphael-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Raphael-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Raphael-GitHub" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-</div>
-
-<br>
-
-📌 **Outros conhecimentos e habilidades:**
-
-- Frameworks e bibliotecas: Next.js, Bootstrap, Tailwind, Wordpress
-- Práticas: Responsividade, acessibilidade, otimização de performance
-- Versionamento: Git e GitHub
-- Design: Figma, Adobe XD, Adobe Photoshop
-- Metodologias ágeis: Scrum e Kanban
+<p align="center">
+  <a href="https://anayadeveloper.com.br/">🌐 Portfólio</a> •
+  <a href="https://www.linkedin.com/in/raphael-anaya-dev/">💼 LinkedIn</a> •
+  <a href="mailto:r.anayadeveloper@gmail.com">📧 Contato</a>
+</p>
 
 ---
 
-## 📂 Projetos em Destaque
+## 🚀 Sobre mim
 
-Aqui estão alguns trabalhos que desenvolvi e que demonstram um pouco do que faço:
+💻 Desenvolvedor Web com foco em interfaces modernas, acessíveis e responsivas.
 
-🔹 **[Universo Mágico - Personagens de Harry Potter](https://github.com/AnayaDeveloper/harry-potter-landing-page)**  
-→ Este projeto é uma Landing Page imersiva desenvolvida para listar e filtrar personagens da saga Harry Potter. O objetivo foi criar uma interface mágica, responsiva e performática, consumindo dados de uma API pública.
+🎯 Especializado em criação de aplicações com alta performance, experiência do usuário e código escalável.
 
-🔹 **[Meu Portfólio](https://github.com/AnayaDeveloper/portfolio-anayadev)**  
-→ Repositório do meu portfólio profissional! Este projeto foi desenvolvido para apresentar minhas habilidades, experiências e projetos que desenvolvi com foco em soluções modernas, responsivas e de alta performance.
-
-🔹 **[foco](https://github.com/AnayaDeveloper/fokus)**  
-→ Repositório de uma aplicação web interativa que permite aos usuários adicionar, editar, visualizar e remover tarefas, tudo em um ambiente visual agradável e amigável.
-
-🔹 **[Blog Anaya Tech](https://github.com/AnayaDeveloper/anayatech)**  
-→ O AnayaTech Blog é uma plataforma moderna e elegante dedicada a compartilhar conhecimento sobre programação, inteligência artificial e home office.
-
-🔹 **[Evento Tech - Site para divulgação de eventos](https://github.com/AnayaDeveloper/e-tech)**  
-→ O Evento Tech 2025 é uma plataforma web moderna e responsiva desenvolvida para divulgar e gerenciar um dos maiores eventos do Brasil. O site foi projetado para oferecer uma experiência imersiva e interativa, facilitando o acesso às informações e ao processo de inscrição dos participantes.
-
-🔹 **[loja arturia](https://github.com/AnayaDeveloper/loja-arturia)**  
-→ Este projeto consiste em uma página com uma lista de produtos, simulando um sistema de ecommerce que adiciona, incrementa e remove produtos do carrinho de compras, podendo visualizar na página do carrinho os produtos que foram adicionados.
-
-📌 _Esses e outros projetos estão disponíveis no meu perfil, fique à vontade para explorar!_
+📍 Rio de Janeiro - RJ
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 🛠️ Stack principal
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnayaDeveloper&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnayaDeveloper&layout=compact&langs_count=7&theme=radical"/>
-</div>
+<p align="center">
+  <img alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="NextJS" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/next-js.svg">
+  <img alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</p>
+
+### 🔧 Outras habilidades
+
+- Tailwind CSS
+- Bootstrap
+- APIs REST
+- SEO
+- Figma
+- Photoshop
+- Scrum & Kanban
+- WordPress
+
+---
+
+## 📂 Projetos em destaque
+
+###  [Universo Mágico - Harry Potter](https://github.com/AnayaDeveloper/harry-potter-landing-page)
+Landing page responsiva com filtros dinâmicos e consumo de API pública.
+
+###  [Meu Portfólio](https://github.com/AnayaDeveloper/portfolio-anayadev)
+Portfólio profissional desenvolvido com foco em performance e design moderno.
+
+###  [Fokus](https://github.com/AnayaDeveloper/fokus)
+Aplicação de gerenciamento de tarefas com CRUD completo.
+
+###  [Blog Anaya Tech](https://github.com/AnayaDeveloper/anayatech)
+Blog sobre programação, IA e tecnologia.
+
+###  [Evento Tech](https://github.com/AnayaDeveloper/e-tech)
+Plataforma para divulgação e gerenciamento de eventos.
+
+###  [Loja Arturia](https://github.com/AnayaDeveloper/loja-arturia)
+Simulação de e-commerce com carrinho funcional.
+
+---
+
+## 📊 Estatísticas e Atividade
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnayaDeveloper&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnayaDeveloper&theme=github_dark"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnayaDeveloper&label=Profile%20views&color=blueviolet&style=flat"/>
+</p>
 
 ---
 
 ## 🤝 Vamos nos conectar?
 
-Estou sempre aberto a novas oportunidades, trocas de ideias e colaborações.
-
-<div align="left" style="display: flex; flex-direction: column; gap: 8px;">
-  <div>🔗 **LinkedIn:** [Raphael Anaya](https://www.linkedin.com/in/raphael-anaya-dev/)</div>
-  <div>🌐 **Portfólio:** [Anaya Developer](https://anayadeveloper.com.br/)</div>
-  <div>📧 **E-mail:** [r.anayadeveloper@gmail.com](mailto:r.anayadeveloper@gmail.com)</div>
-</div><br>
-
-> 💡 _“A tecnologia move o mundo, mas são as pessoas que dão sentido a ela.”_
+<p align="center">
+  <a href="https://www.linkedin.com/in/raphael-anaya-dev/">LinkedIn</a> •
+  <a href="https://anayadeveloper.com.br/">Portfólio</a> •
+  <a href="mailto:r.anayadeveloper@gmail.com">Email</a>
+</p>
 
 ---
 
-⭐ _Obrigado por visitar meu perfil! Volte sempre!!!_
+> 💡 *“A tecnologia move o mundo, mas são as pessoas que dão sentido a ela.”*
+
+<p align="center"> Obrigado por visitar meu perfil!!!</p>
